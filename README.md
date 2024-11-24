@@ -14,7 +14,7 @@
 
 [[Replicate Demo (Realistic)](https://replicate.com/jd7h/photomaker)] &emsp; [[Replicate Demo (Stylization)](https://replicate.com/yorickvp/photomaker-style)] &emsp; [[Jittor version](https://github.com/NK-JittorCV/nk-diffusion)]  <be>
 
-<img src="https://github.com/user-attachments/assets/d7d99f0b-2f1e-4d13-8ca8-e08685bcda2a" height=40>
+<img src="" height=40>
 
 **PhotoMaker-V2** is supported by the [HunyuanDiT](https://github.com/Tencent/HunyuanDiT) team. 
 
